@@ -1,0 +1,6 @@
+{
+  "name": "HobbyMatch",
+  "description": "A dating app matching users based on shared hobbies and locations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
